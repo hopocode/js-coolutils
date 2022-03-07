@@ -7,7 +7,7 @@ Coolutils is set of utils to help develop.
 **with npm**
 
 ```
-npm install @hopo/coolutils
+npm install --save @hopo/coolutils
 ```
 
 **with yarn**
