@@ -1,0 +1,28 @@
+{
+  "name": "coolutils",
+  "version": "1.0.1",
+  "description": "Cool javascript/typescript utils for better development.",
+  "author": "Honza Pospisil <me@honzapospisil.com> (https://www.honzapospisil.com/)",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "ts",
+    "typescript",
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "query-string": "^7.1.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "@types/query-string": "^6.3.0",
+    "eslint": "^8.10.0",
+    "ts-jest": "^27.1.3"
+  }
+}
