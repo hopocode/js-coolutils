@@ -1,6 +1,6 @@
 {
   "name": "coolutils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cool javascript/typescript utils for better development.",
   "author": "Honza Pospisil <me@honzapospisil.com> (https://www.honzapospisil.com/)",
   "scripts": {
